@@ -20,9 +20,19 @@ hr{
 /*Navbar Section    */
 nav{
 	text-align: center;
-	height: 10vh;
+	height: 20vh;
 	padding-top: 2rem;
+	
 }
+
+.logo{
+	height: 70px;
+	width: 70px;
+	margin-bottom: 10px;
+	
+}
+
+
 
 
 /* SHowcase */
