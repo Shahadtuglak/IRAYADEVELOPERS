@@ -9,7 +9,7 @@ $(document).ready(function(){
 
 	//Light Mode
 	$("#light").click(function(){
-		$("body").css("background-color","white").css("color","black");
+		$("body").css("background-color","whitesmoke").css("color","black");
 	})
 })
 
